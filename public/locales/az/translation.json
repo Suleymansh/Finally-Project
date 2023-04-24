@@ -1,0 +1,78 @@
+{
+  "header": {
+    "1": "Ana səhifə",
+    "2": "Haqqında",
+    "3": "Məhsullar",
+    "4": "Əlaqə"
+  },
+  "main": {
+    "1": " Yeni məhsullar",
+    "2": " Analar günü üçün",
+    "3": " Eksklüziv təklif-  Yanlız həftə sonuna kimi 10% endirim",
+    "4": " Alış-veriş et "
+  },
+  "phuler": {
+    "1": " Ən trend",
+    "2": " Xüsusi məhsullar"
+  },
+  "footer": {
+    "1": " alış-veriş bələdçisi",
+    "2": " blog",
+    "3": " FAQst",
+    "4": " Ödəniş",
+    "5": " Qaytarma siyasəti",
+    "6": " gəmiçilər",
+
+    "7": " Still məsləhətçi",
+    "8": " Hesabınız",
+    "9": " İnformasiya",
+    "10": " Endirim",
+    "11": " Sifariş Tarixi",
+    "12": "gəmiçilər",
+
+    "15": "İnformasiya",
+    "16": "Sayt xəritəsi",
+    "17": " Axtarış Şərtləri",
+    "18": " Haqqında",
+    "19": " Əlaqə",
+    "20": "Təchizatçılar",
+    "21": " E-poçtlar üçün QEYDİYYAT KEÇİN",
+    "22": " E-poçt ünvanı",
+    "23": "Abunə ",
+    "24": " © 2023 Company, Inc. Bütün hüquqlar qorunur. "
+  },
+  "about": {
+    "1": " Bizim haqqımızda",
+    "2": " ən yaxşı çiçək satıcıları",
+    "3": "niyə bizi seçirsiniz?",
+    "4": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem cumque sit nemo pariatur corporis perspiciatis aspernatur a ullam repudiandae autem asperiores quibusdam omnis commodi alias repellat illum, unde optio temporibus. ",
+    "5": "Komanda üzvləri",
+    "6": " Menecer",
+    "7": " Inkişaf etdirici",
+    "8": " Dizayn"
+  },
+  "contact": {
+    "1": " Bizimlə əlaqə saxlayın",
+    "2": "Adınız",
+    "3": " E-poçtunuz",
+    "4": "Telefon",
+    "5": "Mesaj",
+    "6": " Göndər"
+ 
+  },
+  "search": {
+    "1": "Əlavə et",
+
+    "2": "Axtarış"
+  },
+
+  "section": {
+    "1": " Tezliklə möhtəşəm buketlər stokda olacaq",
+    "2": "Tezliklə gözlənilir..",
+    "3": " Alış-verişə başla"
+  },
+  "Lang": {
+    "1": "Dil"
+  }
+}
+

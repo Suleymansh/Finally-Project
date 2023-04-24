@@ -1,0 +1,48 @@
+ 
+ .arx{
+    background-color: rgb(66, 158, 237) !important;
+    color: aqua !important;
+ }
+ .stars{
+            color:  rgb(91, 57, 84);
+          }
+.name{
+   &:hover{
+      color: red;
+      cursor: pointer;
+   }
+}
+.add{
+     background-color: rgb(184, 34, 169) !important;
+     margin-right:10px ;
+     transition: 5s;
+      &:hover{
+            color: black;
+            cursor: pointer;
+            transform: sca;
+         }
+   i{
+     
+   }
+}
+.heart{
+       background-color: rgb(184, 34, 169) !important;
+       width: 43px;
+       height: 35px;
+       border-radius: 10px;
+       i{
+         color: red;
+       
+       }
+
+}
+.heartwhite{
+     background-color: rgb(184, 34, 169) !important;
+       width: 43px;
+       height: 35px;
+       border-radius: 10px;
+       i{
+         color: red;
+       }
+
+}

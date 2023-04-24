@@ -1,0 +1,53 @@
+.home{
+    background:url(../img/homeflow.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+     display: flex;
+    align-items: center;
+    min-height: 70vh;
+    
+
+    .content{
+    // max-width: 50rem;
+  margin: 50px;
+
+     .new{
+        
+    font-size: 3rem;
+    color:#333;
+    margin-right: 20px;
+     span{
+    font-size: 3.5rem;
+    color:var(--pink);
+    padding:1rem 0;
+    line-height: 1.5;
+    
+}
+}
+p{
+    font-size: 0.9rem;
+    color:#666;
+    padding:1rem 0;
+    line-height: 1.8;
+    
+}
+}
+
+   .btn{
+    display: inline-block;
+    color: #eee;
+    cursor: pointer;
+    background-color: rgb(180, 53, 243);
+    font-size:25px ;
+    border-radius: 4%;
+    margin-top: 1rem;
+
+} 
+}
+
+
+    
+   
+   
+

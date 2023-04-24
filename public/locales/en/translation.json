@@ -1,0 +1,76 @@
+{
+  "header": {
+    "1": "Home",
+    "2": "About",
+    "3": "Shopping",
+    "4": "Contact"
+  },
+  "main": {
+    "1": "New Arrivals",
+    "2": "For Mother's Day!",
+    "3": "Exclusive Offer -10% Off this Week ",
+    "4": " Shop now"
+  },
+  "phuler": {
+    "1": "The Most Trendy",
+    "2": "CUSTOM COLLECTION"
+  },
+  "footer": {
+    "1": "SHOPPING GUIDE",
+    "2": "Blog",
+    "3": "FAQst",
+    "4": "Payment",
+    "5": "Return policy",
+    "7": "Shipmen",
+    "8": "STYLE ADVISOR",
+    "9": "Your Account",
+    "10": "İnformation",
+    "11": "Addresses",
+    "12": "Discount",
+    "13": "Orders History",
+    "14": "Shipmen",
+
+    "15": "İnformation",
+    "16": " Site Map",
+    "17": "Search Terms",
+    "18": "About us",
+    "19": "Contact us",
+    "20": "Suppliers",
+
+    "21": "SIGN UP FOR EMAILS",
+    "22": " Email address",
+    "23": "  Subscribe ",
+    "24": "  © 2023 Company, Inc. All rights reserved. "
+  },
+  "about": {
+    "1": "  About Us",
+    "2": "best flower sellers",
+    "3": " why choose us?",
+    "4": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem cumque sit nemo pariatur corporis perspiciatis aspernatur a ullam repudiandae autem asperiores quibusdam omnis commodi alias repellat illum, unde optio temporibus.",
+    "5": "Team Members",
+    "6": " Manager",
+    "7": "Developer",
+    "8": " Designer"
+  },
+  "search": {
+    "1": " Add to cart",
+    "2": "Search"
+  },
+  "contact": {
+    "1": " Contact us",
+    "2": "Your Name",
+    "3": " Your Email",
+    "4": "Phone",
+    "5": "Message",
+    "6": " Send"
+    
+  },
+  "section": {
+    "1": "  Soon our awesome bouquets will be in stock",
+    "2": "coming soon..",
+    "3": " Start shopping"
+  },
+  "Lang": {
+    "1": "Lang"
+  }
+}

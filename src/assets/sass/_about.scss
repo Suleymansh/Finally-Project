@@ -1,0 +1,50 @@
+.section {
+  .heading {
+    font-family: "Fasthand", cursive;
+    margin-top: 58px;
+  }
+  .wrapper {
+    display: flex;
+    .lefts {
+      video {
+        width: 90%;
+        border: 0.5rem solid #fff;
+        border-radius: 0.3rem;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+        height: 90%;
+        object-fit: cover;
+      }
+
+    }
+    .rights {
+      h4 {
+        font-size: 45px;
+        font-family: "Fasthand", cursive;
+      }
+      p {
+        font-family: "Fasthand", cursive;
+
+        font-size: 20px;
+      }
+    }
+  }
+}
+
+
+.bg-dark{
+
+  .section{
+    .heading{
+      color: white;
+    }
+    .wrapper{
+      h4{
+        color: white;
+      }
+        p{
+        color: white;
+      }
+
+    }
+  }
+}

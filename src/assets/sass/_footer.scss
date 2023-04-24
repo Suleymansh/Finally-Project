@@ -1,0 +1,39 @@
+.container{
+    .row{
+.guıd{
+        font-family: 'Alkatra', cursive;
+     
+}
+.gr{
+        font-family: 'Alkatra', cursive;
+        color: black;
+        &:hover{
+            color: rebeccapurple;
+        }
+
+}
+.sub{
+    
+  width: 80px; 
+  height: 32px;
+  border-radius: 5px;
+  background-color: rebeccapurple !important;
+   
+    }
+}
+
+}
+
+
+.bg-dark{
+    .container{
+        .row{
+            .guıd{
+                color: #fff;
+            }
+ .gr{
+      color: #fff;
+ }
+        }
+    }
+}
